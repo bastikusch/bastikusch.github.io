@@ -1,5 +1,15 @@
 [
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "This page is in construction.\n\n\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Research"
+    ]
+  },
+  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
@@ -12,9 +22,9 @@
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
-    "title": "",
+    "title": "Teaching",
     "section": "",
-    "text": "Back to top",
+    "text": "This page is in construction.\n\n\n\n\n\n\n\n\n\n Back to top",
     "crumbs": [
       "Teaching"
     ]
@@ -22,11 +32,11 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "About me",
     "section": "",
     "text": "Back to top",
     "crumbs": [
-      "About Me"
+      "About me"
     ]
   },
   {
