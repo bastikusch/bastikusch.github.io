@@ -1,0 +1,53 @@
+---
+title: "Sebastian Kusch"
+about:
+  template: solana
+  image: avatar.jpeg
+  image-width: 15em
+  image-shape: round
+  links:
+    - icon: cloud-sun-fill
+      text: Bluesky
+      href: https://bsky.app/profile/bastikusch.bsky.social
+    - icon: github
+      text: Github
+      href: https://github.com/bastikusch
+    - icon: gitlab
+      text: Gitlab
+      href: https://git.skewed.de/bastikusch
+    - icon: flower1
+      text: ORCID
+      href: https://orcid.org/0009-0007-0415-353X
+    - icon: box-arrow-up-right
+      text: Work
+      href: https://it-u.at/en/research/team/sebastian-kusch/
+
+---
+
+
+## Bio
+
+Hello! I'm passionate about web development, programming, and creating engaging user experiences. I enjoy learning new technologies and applying them to solve real-world problems. In my free time, I like exploring open-source projects and contributing to the developer community.
+
+## Career Timeline
+
+- **2023 - Present**: Senior Web Developer at TechCorp Inc.
+    - Leading a team of developers to build scalable web applications.
+    - Implementing modern web technologies and best practices.
+
+- **2020 - 2023**: Frontend Developer at CodeWorks
+    - Developed responsive and accessible user interfaces.
+    - Collaborated with designers and backend developers to deliver seamless user experiences.
+
+- **2017 - 2020**: Junior Developer at DevStart
+    - Assisted in building and maintaining web applications.
+    - Gained experience in JavaScript, HTML, CSS, and version control systems.
+
+- **2015 - 2017**: Freelance Web Developer
+    - Designed and developed websites for small businesses.
+    - Focused on creating user-friendly and visually appealing designs.
+
+## News
+- **October 2023**: Successfully launched a new feature for TechCorp's main product, improving user engagement by 25%.
+- **September 2023**: Presented a talk on "Modern Web Development Trends" at the WebDev Conference.
+- **August 2023**: Completed a certification in Advanced React and TypeScript. -->

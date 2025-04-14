@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+
+format:
+  html:
+    theme: 
+      light: lux # journal
+      dark: darkly
+    css: style.css
+
+website:
+  page-footer: 
+    right: "© Copyright 2025, Sebastian Kusch" 
+  back-to-top-navigation: true
+  sidebar:
+    style: "floating"
+    search: true
+    contents: auto
+    border: true
+
+      # - text: "About me"
+      #   href: about.qmd
+      # - text: "Research"
+      #   href: research.qmd
+      # - text: "Teaching"
+      #   href: teaching.qmd
+      # - text: "CV"
+      #   href: cv.qmd
+      # - section: "Layout"
+      #   contents:
+      #     - layout.qmd
+      #     - layout-knitr.qmd
+      #     - layout-jupyter.qmd
+      # - section: advanced.qmd
+      #   contents:
+      #     - raw-code.qmd
+      #     - custom-theme.qmd
+      # - acknowlegment.qmd
+      
+
+
