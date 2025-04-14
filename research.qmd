@@ -1,8 +1,7 @@
 ---
 title: "Research"
-format:
-  html:
-    html-math-method: mathjax
 ---
 
-## In progress
+::: {.callout-important}
+# This page is in construction.
+:::

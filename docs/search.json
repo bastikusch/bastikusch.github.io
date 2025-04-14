@@ -12,9 +12,9 @@
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
-    "title": "",
+    "title": "Teaching",
     "section": "",
-    "text": "Back to top",
+    "text": "This page is in construction.\n\n\n\n\n\n\n\n\n\n Back to top",
     "crumbs": [
       "Teaching"
     ]
@@ -22,11 +22,11 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "About me",
     "section": "",
     "text": "Back to top",
     "crumbs": [
-      "About Me"
+      "About me"
     ]
   },
   {
@@ -34,6 +34,16 @@
     "href": "index.html",
     "title": "Sebastian Kusch",
     "section": "",
-    "text": "–&gt;\n\n\n Back to top"
+    "text": "Back to top"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "This page is in construction.\n\n\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Research"
+    ]
   }
 ]

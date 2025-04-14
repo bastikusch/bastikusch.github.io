@@ -1,3 +1,25 @@
 ---
-title: "About Me"
+title: "About me"
+about:
+  template: solana
+  image: avatar.jpeg
+  image-width: 15em
+  image-shape: round
+  links:
+    - icon: cloud-sun-fill
+      text: Bluesky
+      href: https://bsky.app/profile/bastikusch.bsky.social
+    - icon: github
+      text: Github
+      href: https://github.com/bastikusch
+    - icon: gitlab
+      text: Gitlab
+      href: https://git.skewed.de/bastikusch
+    - icon: flower1
+      text: ORCID
+      href: https://orcid.org/0009-0007-0415-353X
+    - icon: box-arrow-up-right
+      text: Work
+      href: https://it-u.at/en/research/team/sebastian-kusch/
+
 ---
