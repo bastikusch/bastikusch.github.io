@@ -25,7 +25,7 @@ about:
 ---
 
 
-## Bio
+<!-- ## Bio
 
 Hello! I'm passionate about web development, programming, and creating engaging user experiences. I enjoy learning new technologies and applying them to solve real-world problems. In my free time, I like exploring open-source projects and contributing to the developer community.
 
@@ -50,4 +50,4 @@ Hello! I'm passionate about web development, programming, and creating engaging 
 ## News
 - **October 2023**: Successfully launched a new feature for TechCorp's main product, improving user engagement by 25%.
 - **September 2023**: Presented a talk on "Modern Web Development Trends" at the WebDev Conference.
-- **August 2023**: Completed a certification in Advanced React and TypeScript. -->
+- **August 2023**: Completed a certification in Advanced React and TypeScript. --> -->
