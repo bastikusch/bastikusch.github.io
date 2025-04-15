@@ -1,5 +1,15 @@
 [
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "This page is in construction.\n\n\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Research"
+    ]
+  },
+  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
@@ -7,16 +17,6 @@
     "text": "Back to top",
     "crumbs": [
       "Curriculum Vitae"
-    ]
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "This page is in construction.\n\n\n\n\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Teaching"
     ]
   },
   {
@@ -35,15 +35,5 @@
     "title": "Sebastian Kusch",
     "section": "",
     "text": "Back to top"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "This page is in construction.\n\n\n\n\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Research"
-    ]
   }
 ]
