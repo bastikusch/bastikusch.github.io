@@ -1,6 +1,138 @@
 ---
 title: "Curriculum Vitae"
-embed-resources: true
+about:
+  template: solana
+  image: avatar.jpeg
+  image-width: 15em
+  image-shape: round
 ---
 
-![](CV/cv_Sebastian_Kusch.pdf){width=100% height=1000}
+<!-- ![](CV/cv_Sebastian_Kusch.pdf){width=100% height=1000} -->
+
+
+
+## Education
+
+- **Ph.D. Candidate, Complex Systems and Network Science**
+  IT:U Austria, Linz\
+  Sept. 2024 - Present
+  - Topic: "Disentangling Co-Existing Network Generating Mechanisms" 
+  - *Supervisor: Tiago Peixoto*
+
+- **Ph.D. Candidate, Network Science**  
+  Central European University, Vienna, Austria  
+  Oct. 2022 – 2024  
+  - Topic: "Disentangling Co-Existing Network Generating Mechanisms"  
+  - *Supervisor: Tiago Peixoto*
+
+- **M.Sc., Environmental Modelling**  
+  Carl von Ossietzky University of Oldenburg, Oldenburg, Germany  
+  Oct. 2018 – May. 2022  
+  - Thesis: "Steady State Solutions of Evolutionary and Interaction-based Multi-Layer Spreading Processes"  
+  - *Supervisors: Thilo Gross, Jan Freund*
+
+- **B.Sc., Simulation Technology**  
+  University of Stuttgart, Stuttgart, Germany  
+  Oct. 2013 – May. 2017  
+  - Thesis: "Modelling and Simulation of Muscle Hypertrophy, Fatigue and Maximum Force Increase in Performance-oriented Training"  
+  - *Supervisors: Syn Schmitt, Daniel Häufle*
+
+---
+
+## Research Interests
+
+- Network Science: Network Inference, Network Reconstruction, Network Algorithms.
+- Complex Systems: Statistical Physics, Algorithmic Information Theory, Emergence.
+- Data Science: Bayesian Inference, Machine Learning, Data Compression.
+
+<!-- --- -->
+<!-- 
+## Research Experience
+
+- **Research Internship**  
+  Helmholtz Institute for Functional Marine Biodiversity, Oldenburg, Germany  
+  Mar. 2020 – Jul. 2020  
+  - Biodiversity Theory: Using diffusion maps to find patterns in ecological models and data sets, scientific report titled "Functional patterns in ecological systems"
+  - Mathematical Modelling: Using the Julia language to model ecological systems (food webs, competition models) and run dynamical simulations and algorithms (non-official Julia package at DiffusionMap.jl)
+
+- **Research Internship**  
+  BTC Business Technology Consulting AG / Team Data Science and Artificial Intelligence, Oldenburg, Germany  
+  Nov. 2019 – Feb. 2020  
+  - Programming Project: Title: "Conception and implementation of a testing environment for an artificial intelligent system in the context of autonomous driving".
+  - Reinforcement Learning Project: Title: "Conception and implementation of an artificial intelligent reinforcement learning agent with the purpose of driving autonomously".
+
+- **Student Research Assistant**  
+  Institute for Chemistry and Biology of the Marine Environment, University Oldenburg, Oldenburg, Germany  
+  Mar. 2019 – Jan. 2020  
+  - Non-linear Dynamics Project: Attractor Reconstruction in Julia
+  - Visualization Project: Web-based visualization of bird migration models, written in JavaScript and HTML (see github.com/bastikusch/birdmigration)
+
+- **Student Research Assistant**  
+  Institute for Sports and Movement, University of Stuttgart, Stuttgart, Germany  
+  Jul. 2015 – Nov. 2016  
+  - Biomechanics Project: Research projects addressing biomechanical modelling and simulations (data aggregating experiments and programming in Matlab). -->
+
+<!-- --- -->
+<!-- 
+## Teaching Experience
+
+- **Certificate of Teaching in Higher Education**  
+  Yehuda Elkana Center, CEU, Vienna, Austria  
+  Sep. 2023 – Jun. 2024  
+  - Certificate [16 ECTS]: Teaching program integrating scholarship, practice, and innovation in teaching, equipping participants to design effective courses, master student-centered teaching techniques, and assess student learning. Additional focus on utilizing technology, promoting diversity and inclusion, and fostering lifelong professional development through reflective practices.
+
+- **Teaching Assistant**  
+  Central European University, Vienna, Austria  
+  - Multivariate Calculus (Spring 24): Weekly tutorial sessions, additional Q&A sessions, design and grade assignments.
+  - Introduction to Optimization (Winter 23/24): Supervise and grade group presentations, office hours, design and grade assignments.
+  - Numerical Methods in Calculus and Algebra (Fall 23/24): Supervise and grade group presentations, office hours, design and grade assignments.
+
+- **Teaching Assistant**  
+  University of Stuttgart, Stuttgart, Germany  
+  - Engineering Mechanics 2 (Summer 15): Weekly tutorial group, Correct exercises, Assist in grading the final exam.
+  - Engineering Mechanics 1 (Winter 14/15): Weekly tutorial group, Correct exercises, Assist in grading the final exam.
+
+---
+
+## Awards & Honors
+
+- Best talk by an early career researcher: NetSci 2024, Quebec
+- Academic Achievement Award for First-Year Doctoral Students 2023/24: CEU, Vienna
+
+---
+
+## Community Service and Outreach
+
+- **NetPLACE Seminars**  
+  Organiser  
+  Sep. 2023 – Present  
+  - Online Seminars: Co-organize bi-weekly online seminars, focusing on early career researchers and the problems they encounter in academia.
+  - Panel, NetSci-X 2024, Venice: Co-organized a panel with the title "Redefining scientific communication: from the scientific community to the society"
+
+---
+
+## Work Experience
+
+- **Developer**  
+  BTC Business Technology Consulting AG / Team Data Science and Artificial Intelligence, Oldenburg, Germany  
+  Mar. 2020 – Jun. 2021  
+  - AI Projects: geometric optimization of lane reconstructions, quantification of simulation uncertainties, heuristic search algorithms for dimension reduction problems and conception of metric search tree data structures.
+
+- **European Voluntary Service**  
+  Youth Work Ireland Galway, YWIG, Galway, Ireland  
+  Oct. 2017 – Aug. 2018
+
+- **Voluntary Social Year**  
+  FRAPORT SKYLINERS e.V., Frankfurt, Germany  
+  Aug. 2012 – Jul. 2013
+
+---
+
+## Skills
+
+- **Languages:** German (native), English (fluent), French, Spanish, Swedish (all basic)
+- **Programming:** Python, Julia, C#, HTML, JavaScript, Latex, Git
+
+---
+
+**Updated:** July 14, 2024 -->
