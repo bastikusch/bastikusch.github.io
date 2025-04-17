@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://bastikusch.github.io/website/research.html</loc>
-    <lastmod>2025-04-14T16:11:11.586Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastikusch.github.io/website/cv.html</loc>
-    <lastmod>2025-04-16T07:16:39.649Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastikusch.github.io/website/about.html</loc>
-    <lastmod>2025-04-16T06:48:45.935Z</lastmod>
-  </url>
-  <url>
     <loc>https://bastikusch.github.io/website/index.html</loc>
-    <lastmod>2025-04-16T06:48:12.515Z</lastmod>
+    <lastmod>2025-04-17T11:23:13.316Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastikusch.github.io/website/content/community.html</loc>
+    <lastmod>2025-04-17T11:27:52.158Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastikusch.github.io/website/content/teaching.html</loc>
+    <lastmod>2025-04-17T11:27:24.727Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastikusch.github.io/website/content/contact.html</loc>
+    <lastmod>2025-04-17T11:31:17.390Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastikusch.github.io/website/content/news.html</loc>
+    <lastmod>2025-04-17T11:31:22.745Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastikusch.github.io/website/content/cv.html</loc>
+    <lastmod>2025-04-17T11:24:13.622Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastikusch.github.io/website/content/research.html</loc>
+    <lastmod>2025-04-17T11:30:24.178Z</lastmod>
   </url>
 </urlset>
