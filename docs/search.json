@@ -1,93 +1,65 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "This page is in construction.\n\n\n\n\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Research"
-    ]
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Ph.D. Candidate, Complex Systems and Network Science IT:U Austria, Linz\nSept. 2024 - Present\n\nTopic: “Disentangling Co-Existing Network Generating Mechanisms”\nSupervisor: Tiago Peixoto\n\nPh.D. Candidate, Network Science\nCentral European University, Vienna, Austria\nOct. 2022 – 2024\n\nTopic: “Disentangling Co-Existing Network Generating Mechanisms”\n\nSupervisor: Tiago Peixoto\n\nM.Sc., Environmental Modelling\nCarl von Ossietzky University of Oldenburg, Oldenburg, Germany\nOct. 2018 – May. 2022\n\nThesis: “Steady State Solutions of Evolutionary and Interaction-based Multi-Layer Spreading Processes”\n\nSupervisors: Thilo Gross, Jan Freund\n\nB.Sc., Simulation Technology\nUniversity of Stuttgart, Stuttgart, Germany\nOct. 2013 – May. 2017\n\nThesis: “Modelling and Simulation of Muscle Hypertrophy, Fatigue and Maximum Force Increase in Performance-oriented Training”\n\nSupervisors: Syn Schmitt, Daniel Häufle",
-    "crumbs": [
-      "Curriculum Vitae"
-    ]
-  },
-  {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Ph.D. Candidate, Complex Systems and Network Science IT:U Austria, Linz\nSept. 2024 - Present\n\nTopic: “Disentangling Co-Existing Network Generating Mechanisms”\nSupervisor: Tiago Peixoto\n\nPh.D. Candidate, Network Science\nCentral European University, Vienna, Austria\nOct. 2022 – 2024\n\nTopic: “Disentangling Co-Existing Network Generating Mechanisms”\n\nSupervisor: Tiago Peixoto\n\nM.Sc., Environmental Modelling\nCarl von Ossietzky University of Oldenburg, Oldenburg, Germany\nOct. 2018 – May. 2022\n\nThesis: “Steady State Solutions of Evolutionary and Interaction-based Multi-Layer Spreading Processes”\n\nSupervisors: Thilo Gross, Jan Freund\n\nB.Sc., Simulation Technology\nUniversity of Stuttgart, Stuttgart, Germany\nOct. 2013 – May. 2017\n\nThesis: “Modelling and Simulation of Muscle Hypertrophy, Fatigue and Maximum Force Increase in Performance-oriented Training”\n\nSupervisors: Syn Schmitt, Daniel Häufle",
-    "crumbs": [
-      "Curriculum Vitae"
-    ]
-  },
-  {
-    "objectID": "cv.html#research-interests",
-    "href": "cv.html#research-interests",
-    "title": "Curriculum Vitae",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nNetwork Science: Network Inference, Network Reconstruction, Network Algorithms.\nComplex Systems: Statistical Physics, Algorithmic Information Theory, Emergence.\nData Science: Bayesian Inference, Machine Learning, Data Compression.",
-    "crumbs": [
-      "Curriculum Vitae"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About me",
-    "section": "",
-    "text": "I’m a PhD Candidate in the Inverse Complexity Lab, specializing in Complex Systems and Network Science with a background in mathematical modeling and computational science. I hold a B.Sc. in Simulation Technology and a M.Sc. in Environmental Modelling.\nMy research focuses on emergent complex systems described by multiple mechanisms, aiming to develop mathematical frameworks to distinguish between their causal effects on observed structural patterns using methods from Network Science, Complex Systems, Bayesian Statistics and Algorithmic Information Theory.",
-    "crumbs": [
-      "About me"
-    ]
-  },
-  {
-    "objectID": "about.html#about-me",
-    "href": "about.html#about-me",
-    "title": "About me",
-    "section": "",
-    "text": "I’m a PhD Candidate in the Inverse Complexity Lab, specializing in Complex Systems and Network Science with a background in mathematical modeling and computational science. I hold a B.Sc. in Simulation Technology and a M.Sc. in Environmental Modelling.\nMy research focuses on emergent complex systems described by multiple mechanisms, aiming to develop mathematical frameworks to distinguish between their causal effects on observed structural patterns using methods from Network Science, Complex Systems, Bayesian Statistics and Algorithmic Information Theory.",
-    "crumbs": [
-      "About me"
-    ]
-  },
-  {
-    "objectID": "about.html#news",
-    "href": "about.html#news",
-    "title": "About me",
-    "section": "News",
-    "text": "News\n\nSeptember 2024: New Position as a Ph.D. candidate at IT:U Austria, Linz.\nJune 2024: “Best talk by an early-career researcher” at NetSci 2024 in Québec!",
-    "crumbs": [
-      "About me"
-    ]
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Sebastian Kusch",
     "section": "",
-    "text": "I’m a PhD Candidate in the Inverse Complexity Lab, specializing in Complex Systems and Network Science with a background in mathematical modeling and computational science. I hold a B.Sc. in Simulation Technology and a M.Sc. in Environmental Modelling.\nMy research focuses on emergent complex systems described by multiple mechanisms, aiming to develop mathematical frameworks to distinguish between their causal effects on observed structural patterns using methods from Network Science, Complex Systems, Bayesian Statistics and Algorithmic Information Theory."
+    "text": "About me\nI’m a PhD Candidate in the Inverse Complexity Lab, specializing in Complex Systems and Network Science with a background in mathematical modeling and computational science. I hold a B.Sc. in Simulation Technology and a M.Sc. in Environmental Modelling.\nMy research focuses on emergent complex systems described by multiple mechanisms, aiming to develop mathematical frameworks to distinguish between their causal effects on observed structural patterns using methods from Network Science, Complex Systems, Bayesian Statistics and Algorithmic Information Theory.\n\n\nNews\n\nSeptember 2024: New Position as a Ph.D. candidate at IT:U Austria, Linz.\nJune 2024: “Best talk by an early-career researcher” at NetSci 2024 in Québec!"
   },
   {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Sebastian Kusch",
+    "objectID": "content/community.html",
+    "href": "content/community.html",
+    "title": "Community",
     "section": "",
-    "text": "I’m a PhD Candidate in the Inverse Complexity Lab, specializing in Complex Systems and Network Science with a background in mathematical modeling and computational science. I hold a B.Sc. in Simulation Technology and a M.Sc. in Environmental Modelling.\nMy research focuses on emergent complex systems described by multiple mechanisms, aiming to develop mathematical frameworks to distinguish between their causal effects on observed structural patterns using methods from Network Science, Complex Systems, Bayesian Statistics and Algorithmic Information Theory."
+    "text": "This page is in construction."
   },
   {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Sebastian Kusch",
-    "section": "News",
-    "text": "News\n\nSeptember 2024: New Position as a Ph.D. candidate at IT:U Austria, Linz.\nJune 2024: “Best talk by an early-career researcher” at NetSci 2024 in Québec!"
+    "objectID": "content/teaching.html",
+    "href": "content/teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "This page is in construction."
+  },
+  {
+    "objectID": "content/contact.html",
+    "href": "content/contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "This page is in construction."
+  },
+  {
+    "objectID": "content/news.html",
+    "href": "content/news.html",
+    "title": "News",
+    "section": "",
+    "text": "This page is in construction."
+  },
+  {
+    "objectID": "content/cv.html",
+    "href": "content/cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Ph.D. Candidate, Complex Systems and Network Science IT:U Austria, Linz\nSept. 2024 - Present\n\nTopic: “Disentangling Co-Existing Network Generating Mechanisms”\nSupervisor: Tiago Peixoto\n\nPh.D. Candidate, Network Science\nCentral European University, Vienna, Austria\nOct. 2022 – 2024\n\nTopic: “Disentangling Co-Existing Network Generating Mechanisms”\n\nSupervisor: Tiago Peixoto\n\nM.Sc., Environmental Modelling\nCarl von Ossietzky University of Oldenburg, Oldenburg, Germany\nOct. 2018 – May. 2022\n\nThesis: “Steady State Solutions of Evolutionary and Interaction-based Multi-Layer Spreading Processes”\n\nSupervisors: Thilo Gross, Jan Freund\n\nB.Sc., Simulation Technology\nUniversity of Stuttgart, Stuttgart, Germany\nOct. 2013 – May. 2017\n\nThesis: “Modelling and Simulation of Muscle Hypertrophy, Fatigue and Maximum Force Increase in Performance-oriented Training”\n\nSupervisors: Syn Schmitt, Daniel Häufle"
+  },
+  {
+    "objectID": "content/cv.html#education",
+    "href": "content/cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Ph.D. Candidate, Complex Systems and Network Science IT:U Austria, Linz\nSept. 2024 - Present\n\nTopic: “Disentangling Co-Existing Network Generating Mechanisms”\nSupervisor: Tiago Peixoto\n\nPh.D. Candidate, Network Science\nCentral European University, Vienna, Austria\nOct. 2022 – 2024\n\nTopic: “Disentangling Co-Existing Network Generating Mechanisms”\n\nSupervisor: Tiago Peixoto\n\nM.Sc., Environmental Modelling\nCarl von Ossietzky University of Oldenburg, Oldenburg, Germany\nOct. 2018 – May. 2022\n\nThesis: “Steady State Solutions of Evolutionary and Interaction-based Multi-Layer Spreading Processes”\n\nSupervisors: Thilo Gross, Jan Freund\n\nB.Sc., Simulation Technology\nUniversity of Stuttgart, Stuttgart, Germany\nOct. 2013 – May. 2017\n\nThesis: “Modelling and Simulation of Muscle Hypertrophy, Fatigue and Maximum Force Increase in Performance-oriented Training”\n\nSupervisors: Syn Schmitt, Daniel Häufle"
+  },
+  {
+    "objectID": "content/cv.html#research-interests",
+    "href": "content/cv.html#research-interests",
+    "title": "Curriculum Vitae",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nNetwork Science: Network Inference, Network Reconstruction, Network Algorithms.\nComplex Systems: Statistical Physics, Algorithmic Information Theory, Emergence.\nData Science: Bayesian Inference, Machine Learning, Data Compression."
+  },
+  {
+    "objectID": "content/research.html",
+    "href": "content/research.html",
+    "title": "Research",
+    "section": "",
+    "text": "This page is in construction."
   }
 ]

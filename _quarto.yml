@@ -2,42 +2,85 @@ project:
   type: website
   output-dir: docs
 
+website:
+  title: "Sebastian Kusch"
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: About
+        menu:
+          - text: Curriculum Vitae
+            href: CV/cv_Sebastian_Kusch.pdf
+            target: _blank
+          - text: News
+            href: content/news.qmd
+          - text: Contact
+            href: content/contact.qmd             
+      - text: Research
+        href: content/research.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Community
+        menu:
+        - text: NetPlace
+          href: content/community.qmd
+        - text: CORE
+          href: content/community.qmd               
+
+  page-navigation: true
+  
+  page-footer: 
+    left: "[Sebastian Kusch](https://github.com/bastikusch/website) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    right:  
+      - icon: github
+        href: https://github.com/bastikusch
+        target: _blank
+      - text: "{{< fa brands bluesky >}}" 
+        href: https://bsky.app/profile/bastikusch.bsky.social
+        target: _blank
+
+  search:
+    location: navbar
+    type: textbox
+  
+  # draft-mode: unlinked
+  
+  # repo-url: https://github.com/bastikusch/website
+  # repo-actions: [edit, issue, source]
+  
+#   open-graph: true
+  
+#   twitter-card: true 
+# #  card-style: summary      
+  
+  site-url: "https://bastikusch.github.io/website/"
+  
+
+# bibliography: references.bib
+
 format:
   html:
     theme: 
-      light: minty
+      light: "theme.scss"
       dark: solar
-    css: style.css
-
-website:
-  page-footer: 
-    right: "© Copyright 2025, Sebastian Kusch" 
-  back-to-top-navigation: true
-  sidebar:
-    style: "floating"
-    search: true
-    contents: auto
-    border: true
-    background: "none"
-
-      # - text: "About me"
-      #   href: about.qmd
-      # - text: "Research"
-      #   href: research.qmd
-      # - text: "Teaching"
-      #   href: teaching.qmd
-      # - text: "CV"
-      #   href: cv.qmd
-      # - section: "Layout"
-      #   contents:
-      #     - layout.qmd
-      #     - layout-knitr.qmd
-      #     - layout-jupyter.qmd
-      # - section: advanced.qmd
-      #   contents:
-      #     - raw-code.qmd
-      #     - custom-theme.qmd
-      # - acknowlegment.qmd
-      
+    mainfont: Garamond, serif;
+    # css: styles.css
+    # toc: true
+    footnotes-hover: true
+    code-copy: true
+    code-link: true
+    code-overflow: wrap
+    fig-align: center
+    link-external-icon: false
+    link-external-newwindow: true
+    email-obfuscation: javascript
+    link-external-filter: '^(?:http:|https:)\/\/bastikusch\.github\.io\/website'
+    include-in-header: "files/includes/_academic.qmd"
+    grid:
+      sidebar-width: 100px
+      body-width: 1000px
+      margin-width: 100px
+      gutter-width: 1.5rem
 
 

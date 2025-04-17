@@ -2,9 +2,9 @@
 title: "Curriculum Vitae"
 about:
   template: solana
-  image: avatar.jpeg
-  image-width: 15em
-  image-shape: round
+  # image: avatar.jpeg
+  # image-width: 15em
+  # image-shape: round
 ---
 
 <!-- ![](CV/cv_Sebastian_Kusch.pdf){width=100% height=1000} -->
