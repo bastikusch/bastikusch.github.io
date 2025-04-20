@@ -43,9 +43,9 @@ $min-contrast-ratio:   1.45 !default;
 
 // Body
 
-$body-bg:                   $white !default;
-$body-color:                $gray-700 !default;
-$color-contrast-dark:       $body-color !default; // Prefer $body-color over $black inside color-contrast()
+
+
+
 
 // Components
 
@@ -60,8 +60,19 @@ $border-radius-sm:            .3rem !default;
 // stylelint-disable-next-line value-keyword-case
 // $headings-font-family:        Montserrat, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
 $navbar-bg:                   $light !default;
+$body-bg:                     $white !default;
+
 $navbar-fg:                   $dark !default;
-$headings-color:              $gray-700 !default;
+$body-fg:                     $dark !default;
+
+// $headings-color:              $gray-700 !default;
+// $body-color:                  $gray-700 !default;
+// $navbar-color:                $gray-700 !default;
+$headings-color:              $black !default;
+$body-color:                  $black !default;
+$navbar-color:                $black !default;
+$color-contrast-dark:         $body-color !default; // Prefer $body-color over $black inside color-contrast()
+
 $headings-font-family:        Garamond, serif !default;
 
 // Tables
@@ -106,7 +117,7 @@ $breadcrumb-active-color:           $breadcrumb-divider-color !default;
 $breadcrumb-border-radius:          .25rem !default;
 
 
-$enable-shadows:                    true !default;
+// $enable-shadows:                    true !default;
 
 
 /*-- scss:rules --*/
@@ -180,7 +191,7 @@ legend {
   color: $white;
 
   &.bg-light {
-    color: $gray-700;
+    color: $black;
   }
 }
 

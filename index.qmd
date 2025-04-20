@@ -20,33 +20,55 @@ about:
       text: Work
       href: https://it-u.at/en/research/team/sebastian-kusch/
 
+listing:
+  contents: /content/news
+  type: grid
+  sort: "date desc"
+  max-items: 3
+  # image-height: 100%
+  max-description-length: 10
+  # image-height: 100%
+format:
+  html:
+    css: style.css
 ---
-<!-- <head>
-  <title>Styled Image</title>
-  <style>
-    .right-round-img {
-      position: absolute;
-      top: 12.4%;       /* Distance from the top of the screen */
-      right: 21%;     /* Distance from the right side of the screen */
-      width: 300px;
-      height: 300px;
-      border-radius: 100%;
-      border: 1.5px solid black;
-      object-fit: cover;
-    }
-  </style>
-</head>
 
-<body>
-  <img src="avatar.jpeg" alt="A description of the image" class="right-round-img">
-</body> -->
 
 ### About me
 
-I’m a PhD Candidate in the Inverse Complexity Lab, specializing in Complex Systems and Network Science with a background in mathematical modeling and computational science. I hold a B.Sc. in Simulation Technology and a M.Sc. in Environmental Modelling.
+---
+
+I’m a PhD Candidate in the [Inverse Complexity Group](https://skewed.de/lab/), specializing on Complex Systems and Network Science.
 
 My research focuses on emergent complex systems described by multiple mechanisms, aiming to develop mathematical frameworks to distinguish between their causal effects on observed structural patterns using methods from **Network Science, Complex Systems, Bayesian Statistics and Algorithmic Information Theory**.
 
+
+```{=html}
+<div class="trajectory-timeline">
+  <div class="trajectory-step">
+    <strong>B.Sc.</strong><br>
+    Simulation Technology<br>
+    Stuttgart<br>
+    <em>(2017)</em>
+  </div>
+  <div class="trajectory-arrow">→</div>
+  <div class="trajectory-step">
+    <strong>M.Sc.</strong><br>
+    Environmental Modelling<br>
+    Oldenburg<br>
+    <em>(2022)</em>
+  </div>
+  <div class="trajectory-arrow">→</div>
+  <div class="trajectory-step">
+    <strong>PhD</strong><br>
+    Complex Systems<br>
+    Vienna/Linz<br>
+    <em>(2022–Now)</em>
+  </div>
+</div>
+```
+
+
 ### News
-- **September 2024**: New Position as a Ph.D. candidate at IT:U Austria, Linz.
-- **June 2024**: “Best talk by an early-career researcher” at NetSci 2024 in Québec!
+
+---

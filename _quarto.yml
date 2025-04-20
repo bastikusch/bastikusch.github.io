@@ -3,24 +3,25 @@ project:
   output-dir: docs
 
 website:
-  title: "Sebastian Kusch"
+  open-graph: true
+  # title: "Sebastian Kusch"
   navbar:
     right:
       - text: Home
         href: index.qmd
       - text: About
         menu:
-          - text: Curriculum Vitae
+          - text: CV
             href: CV/cv_Sebastian_Kusch.pdf
             target: _blank
           - text: News
             href: content/news.qmd
-          - text: Contact
-            href: content/contact.qmd             
-      - text: Research
-        href: content/research.qmd
+          # - text: Contact
+          #   href: content/contact.qmd             
+      # - text: Research
+      #   href: content/research.qmd
       - text: Teaching
-        href: teaching.qmd
+        href: content/teaching.qmd
       - text: Community
         menu:
         - text: NetPlace
@@ -31,7 +32,7 @@ website:
   page-navigation: true
   
   page-footer: 
-    left: "[Sebastian Kusch](https://github.com/bastikusch/website) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    left: "[Sebastian Kusch](https://github.com/bastikusch) &copy; <script>document.write(new Date().getFullYear())</script>" 
     right:  
       - icon: github
         href: https://github.com/bastikusch
@@ -54,7 +55,7 @@ website:
 #   twitter-card: true 
 # #  card-style: summary      
   
-  site-url: "https://bastikusch.github.io/website/"
+  site-url: "https://bastikusch.github.io"
   
 
 # bibliography: references.bib
@@ -65,7 +66,7 @@ format:
       light: "theme.scss"
       dark: solar
     mainfont: Garamond, serif;
-    # css: styles.css
+    css: style.css
     # toc: true
     footnotes-hover: true
     code-copy: true
@@ -75,8 +76,7 @@ format:
     link-external-icon: false
     link-external-newwindow: true
     email-obfuscation: javascript
-    link-external-filter: '^(?:http:|https:)\/\/bastikusch\.github\.io\/website'
-    include-in-header: "files/includes/_academic.qmd"
+    link-external-filter: '^(?:http:|https:)\/\/bastikusch\.github\.io'
     grid:
       sidebar-width: 100px
       body-width: 1000px

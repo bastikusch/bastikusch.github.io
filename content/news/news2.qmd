@@ -1,0 +1,27 @@
+---
+title: "New Position"
+# subtitle: "Transfer"
+date: 2024-10-01
+image: images/itu_logo_color.jpeg
+# author: Sebastian Kusch
+description: ""
+categories: [personal news]
+---
+
+
+As of October 1st, I will be a **PhD candidate at the Interdisciplinary Transformation University Austria** ([IT:U](https://it-u.at/en/)) in Linz. There I am part of the [Inverse Complexity Group](https://skewed.de/lab/), working on Complex Systems and Network Science, led by Tiago Peixoto. You can find my work profile [here](https://it-u.at/en/research/team/sebastian-kusch/).
+
+---
+
+
+
+<!-- --- -->
+
+
+![](images/itu_logo.jpg){width=50% fig-align="center"}
+
+<!-- ![](poem.jpg){width=60%} -->
+
+
+
+---

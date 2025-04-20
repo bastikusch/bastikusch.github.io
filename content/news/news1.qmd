@@ -1,0 +1,27 @@
+---
+title: "NetSci24 Award"
+subtitle: "NetSci 2024, Quebec City"
+date: 2024-06-21
+image: images/award.jpg
+# author: Sebastian Kusch
+description: ""
+categories: [event, presentation]
+---
+
+---
+
+At **NetSci 2024, Quebec**, I was honored with the **Best Presentation Award** by an early career researcher.
+
+It is always exciting to spend time with old and new friends at NetSci and I’m very grateful for the recognition and support from the network science community. Below you can also have a look at my final poem!
+
+<!-- --- -->
+
+::: {layout-ncol=2}
+
+![](images/award.jpg){width=40%}
+
+![](images/poem.jpg){width=60%}
+
+:::
+
+---

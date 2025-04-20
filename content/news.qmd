@@ -1,7 +1,9 @@
 ---
 title: "News"
+listing:
+  contents: news
+  type: default
+  sort: "date desc"
+  
 ---
 
-::: {.callout-important}
-# This page is in construction.
-:::
