@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Sebastian Kusch",
     "section": "",
-    "text": "About me\nI’m a PhD Candidate in the Inverse Complexity Lab, specializing in Complex Systems and Network Science with a background in mathematical modeling and computational science. I hold a B.Sc. in Simulation Technology and a M.Sc. in Environmental Modelling.\nMy research focuses on emergent complex systems described by multiple mechanisms, aiming to develop mathematical frameworks to distinguish between their causal effects on observed structural patterns using methods from Network Science, Complex Systems, Bayesian Statistics and Algorithmic Information Theory."
+    "text": "About me\n\nI’m a PhD Candidate in the Inverse Complexity Group, specializing on Complex Systems and Network Science.\nMy research focuses on emergent complex systems described by multiple mechanisms, aiming to develop mathematical frameworks to distinguish between their causal effects on observed structural patterns using methods from Network Science, Complex Systems, Bayesian Statistics and Algorithmic Information Theory.\n\n  \n    B.Sc.\n    Simulation Technology\n    Stuttgart\n    (2017)\n  \n  →\n  \n    M.Sc.\n    Environmental Modelling\n    Oldenburg\n    (2022)\n  \n  →\n  \n    PhD\n    Complex Systems\n    Vienna/Linz\n    (2022–Now)\n  \n\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNew Position\n\n\n\n\n\n\n\n\nOct 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNetSci24 Award\n\n\n\n\n\n\n\n\nJun 21, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "content/community.html",
@@ -12,6 +12,13 @@
     "title": "Community",
     "section": "",
     "text": "This page is in construction."
+  },
+  {
+    "objectID": "content/news/news2.html",
+    "href": "content/news/news2.html",
+    "title": "New Position",
+    "section": "",
+    "text": "As of October 1st, I will be a PhD candidate at the Interdisciplinary Transformation University Austria (IT:U) in Linz. There I am part of the Inverse Complexity Group, working on Complex Systems and Network Science, led by Tiago Peixoto. You can find my work profile here."
   },
   {
     "objectID": "content/teaching.html",
@@ -32,7 +39,14 @@
     "href": "content/news.html",
     "title": "News",
     "section": "",
-    "text": "This page is in construction."
+    "text": "New Position\n\n\n\n\n\n\n\n\n\n\n\nOct 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nNetSci24 Award\n\n\nNetSci 2024, Quebec City\n\n\n\n\n\n\n\n\nJun 21, 2024\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "content/news/news1.html",
+    "href": "content/news/news1.html",
+    "title": "NetSci24 Award",
+    "section": "",
+    "text": "At NetSci 2024, Quebec, I was honored with the Best Presentation Award by an early career researcher.\nIt is always exciting to spend time with old and new friends at NetSci and I’m very grateful for the recognition and support from the network science community. Below you can also have a look at my final poem!"
   },
   {
     "objectID": "content/cv.html",

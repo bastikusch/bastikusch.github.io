@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/content/news/news2.html",
+      "/content/news/news1.html"
+    ]
+  },
+  {
+    "listing": "/content/news.html",
+    "items": [
+      "/content/news/news2.html",
+      "/content/news/news1.html"
+    ]
+  }
+]
