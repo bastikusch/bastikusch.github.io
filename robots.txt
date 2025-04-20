@@ -1,1 +1,1 @@
-Sitemap: https://bastikusch.github.io/website/sitemap.xml
+Sitemap: https://bastikusch.github.io/sitemap.xml
