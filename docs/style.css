@@ -74,10 +74,12 @@ a {
   box-shadow: 2px 2px 6px rgba(0,0,0,0.05);
   border: 2px solid;
   border-color: var(--border-color, #000000); /* Default to black */
+  border-color: color-mix(in srgb, #000000 50%, #ffffff 50%);
 }
 
 
 .trajectory-arrow {
   font-size: 1.5rem;
-  color: #000000;
+  color: var(--arrow-color, #000000); /* Default to black */
+  color: color-mix(in srgb, #000000 50%, #ffffff 50%);
 }
