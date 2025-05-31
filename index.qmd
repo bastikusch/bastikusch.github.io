@@ -45,26 +45,30 @@ My research focuses on emergent complex systems described by multiple mechanisms
 
 ```{=html}
 <div class="trajectory-timeline">
-  <div class="trajectory-step">
-    <strong>B.Sc.</strong><br>
-    Simulation Technology<br>
-    Stuttgart<br>
-    <em>(2017)</em>
-  </div>
-  <div class="trajectory-arrow">→</div>
-  <div class="trajectory-step">
-    <strong>M.Sc.</strong><br>
-    Environmental Modelling<br>
-    Oldenburg<br>
-    <em>(2022)</em>
-  </div>
-  <div class="trajectory-arrow">→</div>
-  <div class="trajectory-step">
-    <strong>PhD</strong><br>
-    Complex Systems<br>
-    Vienna/Linz<br>
-    <em>(2022–Now)</em>
-  </div>
+  <ul>
+    <h3 class="heading">Background</h3>
+    <li>
+      <span class="year">since 2022:</span>
+      <span class="content">
+        <strong>PhD Complex Systems/Network Science</strong><br>
+        <em>IT:U Austria Linz</em>
+      </span>
+    </li>
+    <li>
+      <span class="year">2022:</span>
+      <span class="content">
+        <strong>M.Sc. Environmental Modelling</strong><br>
+        <em>Carl von Ossietzky University Oldenburg</em>
+      </span>
+    </li>
+    <li>
+      <span class="year">2017:</span>
+      <span class="content">
+        <strong>B.Sc. Simulation Technology</strong><br>
+        <em>University Stuttgart</em>
+      </span>
+    </li>
+  </ul>
 </div>
 ```
 
